@@ -1,0 +1,12 @@
+[
+    {
+        "nombre": "Super Mario Bros 1",
+        "release-date": "1976-08-23",
+        "price": 10
+    },
+    {
+        "nombre": "Super Mario Bros 2",
+        "release-date": "1991-02-14",
+        "price": 15
+    }
+]
